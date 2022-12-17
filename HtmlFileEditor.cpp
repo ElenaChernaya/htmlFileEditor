@@ -24,9 +24,4 @@ HtmlFileEditor::HtmlFileEditor(QWidget* parent)
 }
 
 
-
-HtmlFileEditor::~HtmlFileEditor()
-{
-    delete textEdit;
-    delete view;
-}
+HtmlFileEditor::~HtmlFileEditor(){}
